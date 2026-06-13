@@ -13,6 +13,5 @@ I'm Tanishq Chauhan, a passionate Full Stack Developer based in Noida, Uttar Pra
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alwaystanishq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Alwaystanishq&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Alwaystanishq&icon=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
