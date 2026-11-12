@@ -1,15 +1,33 @@
-# 💫 About Me:
-Full Stack Developer from Noida, currently pursuing my Master's in Computer Applications. I build applications with React, Next.js, Node.js, and React Native.
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Axios](https://img.shields.io/badge/Axios-5A28FF?style=for-the-badge&logo=axios&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&width=650&lines=Hey%2C+I'm+Tanishq+Chauhan+%F0%9F%91%8B;Full+Stack+Developer;Building+Things+for+the+Web+%26+Beyond" alt="Typing SVG" />
 
+### 👨‍💻 A Little About Me
 
+I'm a **Full Stack Developer** based in 📍 **Noida, India**, currently pursuing my **Master of Computer Applications (MCA)** and working as a **Junior Software Engineer Intern at Grauns**.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Alwaystanishq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Alwaystanishq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alwaystanishq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I love turning ideas into functional applications, from crafting responsive interfaces to building reliable backend systems.
+
+```javascript
+const tanishq = {
+  role: "Full Stack Developer",
+  location: "Noida, India",
+  currently: "Junior Software Engineer Intern @ Grauns",
+  education: "Master of Computer Applications",
+  interests: [
+    "Full Stack Development",
+    "Backend Engineering",
+    "System Design",
+    "Developer Tools"
+  ],
+  philosophy: "Build. Learn. Improve. Repeat."
+};
+```
+
+⚡ **Currently exploring:** Backend architecture, system design, and scalable applications.
+
+💡 **What drives me:** Solving real-world problems, learning new technologies, and writing clean, maintainable code.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Alwaystanishq&icon=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <i>“Turning coffee ☕ into code, one commit at a time.”</i>
+</p>
